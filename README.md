@@ -25,4 +25,4 @@ In case of getting twisted image, we use `MOTION_TRANSLATION` and `MOTION_EUCLID
 ![](https://i.imgur.com/c7xytbG.png)
 
 #### Output
-![](https://imgur.com/T014EJE.gif)
+<img src="/result_sm.gif?raw=true" />
