@@ -14,7 +14,7 @@ In case of getting twisted image, we use `MOTION_TRANSLATION` and `MOTION_EUCLID
 
 ### Motion Parallax
 #### Input
-![](https://imgur.com/4Abnb60.gif)
+<img src="/origin.gif?raw=true" />
 
 #### Output
 ![](https://i.imgur.com/d8sDZ8C.gif)
