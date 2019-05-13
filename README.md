@@ -17,7 +17,7 @@ In case of getting twisted image, we use `MOTION_TRANSLATION` and `MOTION_EUCLID
 <img src="/origin.gif?raw=true" />
 
 #### Output
-![](https://i.imgur.com/d8sDZ8C.gif)
+<img src="/result.gif?raw=true" />
 
 
 ### Stop Motion
